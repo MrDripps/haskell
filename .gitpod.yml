@@ -1,5 +1,5 @@
 image: 
-  Dockerfile
+  dockerfile
 tasks:
   - name: Start GHCi
     command: stack ghci
